@@ -1,0 +1,86 @@
+body {
+    font-family: Arial;
+}
+
+a {
+    color: black;
+}
+
+.profilePic {
+    width: 2%;
+}
+
+.header {
+    text-align: end;
+    width: 100%;
+    font-size: 13px;
+}
+
+.headerElement {
+    padding-right: 10px;
+}
+
+.logo {
+    width: 250px;
+    padding-top: 130px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.searchimage {
+    width: 20px;
+    vertical-align: middle;
+}
+
+#textInput {
+    width: 500px;
+    height: 30px;
+    border: #d0cece solid 1px;
+}
+
+.inline {
+    padding-top: 30px;
+}
+
+.inline button {
+    border: #d0cece solid 1px;
+    padding: 10px 30px;
+}
+
+.langue {
+    padding-top: 40px;
+}
+
+.pays {
+    position: absolute;
+    bottom: 40px;
+    left: 30px;
+    color: gray;
+}
+
+.footer {
+    position: absolute;
+    bottom: 5px;
+    left: 30px;
+    width: 100%;
+    font-size: 12px;
+}
+
+.info {
+    margin-right: 30px;
+}
+
+.footerLeft {
+    float: left;
+}
+
+.footerRight { 
+    text-align: end;
+    padding-right: 20px;
+}
